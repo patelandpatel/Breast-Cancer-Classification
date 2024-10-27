@@ -33,7 +33,7 @@ The dataset used in this project contains diagnostic features for breast cancer 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Breast-Cancer-Classification.git
+   git clone https://github.com/patelandpatel/Breast-Cancer-Classification.git
    cd Breast-Cancer-Classification
    ```
 
