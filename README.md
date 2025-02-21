@@ -12,7 +12,7 @@ A deep learning project focused on classifying breast cancer based on diagnostic
 - [Output](#output)
 - [Contributing](#contributing)
 - [License](#license)
-
+- 
 ## Introduction
 
 Breast cancer is one of the most common types of cancer, especially among women. This project uses a dataset of diagnostic features to classify breast cancer as either benign or malignant. By leveraging machine learning and deep learning techniques, this model can assist medical professionals in identifying potential cancer cases with greater accuracy and efficiency.
